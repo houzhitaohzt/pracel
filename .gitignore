@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+dist
+.git-credentials
+.vscode
+.cache
+.idea
+.svn
+.git
+node_modules
+!/scripts/xlsx2json/node_modules
+Doc/languages/~$*.xlsx
+yarn-error.log
